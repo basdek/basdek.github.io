@@ -1,0 +1,22 @@
+/*
+Solarized based colors
+*/
+body {
+    background-color: #EEE8D5;
+    /*Base2*/
+}
+
+.post p, .page p {
+    line-height: 2.5em;
+}
+
+
+blockquote {
+    border-left-color: #586e75;
+    /*Base01*/
+}
+
+a, .navigation a:hover, .footer a, .list ul li .title:hover, .list ul li .title:focus, .centered .about ul li a:hover, .centered .about ul li a:focus {
+    color: #d33682;
+    /* Magenta */
+}

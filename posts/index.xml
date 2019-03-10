@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bas de Kwant</title>
+    <link>https://bas.fyi/posts/</link>
+    <description>Recent content in Posts on Bas de Kwant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Mar 2019 19:24:18 +0100</lastBuildDate>
+    
+	<atom:link href="https://bas.fyi/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Start a blog, begin structured learning</title>
+      <link>https://bas.fyi/posts/start-reading/</link>
+      <pubDate>Sun, 10 Mar 2019 19:24:18 +0100</pubDate>
+      
+      <guid>https://bas.fyi/posts/start-reading/</guid>
+      <description>Hello, I am Bas I worked in software professionally (i.e. getting paid to write software of some sorts) for over six years. I have been interested in software for as long as I can remember. My father sparked this interest back when I was 11 years old, when he showed me the possibilities of Microsoft Excel&amp;hellip; One could say that he gave me a natural predisposition towards reactive programming :)</description>
+    </item>
+    
+  </channel>
+</rss>
